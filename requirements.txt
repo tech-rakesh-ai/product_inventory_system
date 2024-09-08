@@ -1,0 +1,8 @@
+alembic
+fastapi
+fastapi-cache2
+fastapi-limiter
+uvicorn
+SQLAlchemy
+pydantic-settings
+psycopg2-binary
